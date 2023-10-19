@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moovieroom/static/css/main.334bdeb1.css",
+    "main.js": "/moovieroom/static/js/main.6d44a3f7.js",
+    "index.html": "/moovieroom/index.html",
+    "static/media/search.svg": "/moovieroom/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/moovieroom/static/css/main.334bdeb1.css.map",
+    "main.6d44a3f7.js.map": "/moovieroom/static/js/main.6d44a3f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.6d44a3f7.js"
+  ]
+}
